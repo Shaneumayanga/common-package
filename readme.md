@@ -1,0 +1,1 @@
+Common development package that i use when microservices development
