@@ -1,6 +1,6 @@
 {
   "name": "@shanedevelopmentpackages/common",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "description": "Common middlewares and error handling for microservices",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
